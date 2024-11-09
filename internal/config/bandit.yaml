@@ -1,0 +1,11 @@
+bandit:
+  confidence:
+    high: 100
+    medium: 100 
+    low: 100
+    undefined: 100
+  severity:
+    high: 0
+    medium: 0
+    low: 100
+    undefined: 0
